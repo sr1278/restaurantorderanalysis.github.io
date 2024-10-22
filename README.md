@@ -31,3 +31,5 @@ and the categories included Hamburger (american) with 4 purchases and Eggplant P
 Analyzed the top five orders by category and number of items per category to find italian had the most number of items and 
 american was the least. 
 
+![image](https://github.com/user-attachments/assets/3194f53c-28b6-4062-92ab-c24bc5a4e20e)
+
