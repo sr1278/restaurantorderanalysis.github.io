@@ -1,5 +1,4 @@
-Objective: Data analyst for the taste of the world cafe. As the data analyst, you have been asked to dig into customer data 
-to see which menu items are doing well/ not well and what the top customers seem to like best. 
+Utlized MySQL to analyze customer data for the taste of the world cafe. As a data analyst, you have been asked to dig into customer data to see which menu items are doing well/ not well and what the top customers seem to like best. 
 
 Objectives Menu Items Table: 
 1. view the menu items table and write a query to find the number of items on the menu 
