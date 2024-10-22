@@ -1,4 +1,5 @@
-Utlized MySQL to analyze customer data for the taste of the world cafe. As a data analyst, you have been asked to dig into customer data to see which menu items are doing well/ not well and what the top customers seem to like best. 
+Project Overview: 
+As a data analyst, you have been asked to dig into customer data to see which menu items are doing well/ not well and what the top customers seem to like best. 
 
 Objectives Menu Items Table: 
 1. view the menu items table and write a query to find the number of items on the menu 
@@ -17,6 +18,9 @@ Objective 3: Analyze Customer Behavior from both the menu items and order detail
 2. 	What were the least and most ordered items? What categories were they in?
 3. 	What were the top 5 orders that spent the most money?
 4. View the details of the highest spend order. What insights can you gather from the results? 
+
+Data Analytics Insights and Procedure: 
+Utilized MySQL to analyze data for the taste of the world cafe. 
 
 Overall metrics that were analyzed for the Sales team to understand which categories, and orders were most and leas profitable,
 which were able to showcase the types of dishes the restaurant should continue to serve customers. 
