@@ -29,6 +29,6 @@ From the order details table, the orders were analyzed from 01-01-2023 to 3-31-2
 date range. Joined the order details and menu items table to analyze customer behavior. Found the least and most ordered items 
 and the categories included Hamburger (american) with 4 purchases and Eggplant Parmesan (italian) with 1 purchase. 
 
-Analyzed the top five orders by category and number of items per category to find ttalian had the most number of items and 
+Analyzed the top five orders by category and number of items per category to find italian had the most number of items and 
 american was the least. 
 
