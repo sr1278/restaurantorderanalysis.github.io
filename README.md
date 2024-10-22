@@ -1,4 +1,5 @@
 Project Overview: 
+
 As a data analyst, you have been asked to dig into customer data to see which menu items are doing well/ not well and what the top customers seem to like best. 
 
 Objectives Menu Items Table: 
@@ -20,6 +21,7 @@ Objective 3: Analyze Customer Behavior from both the menu items and order detail
 4. View the details of the highest spend order. What insights can you gather from the results? 
 
 Data Analytics Insights and Procedure: 
+
 Utilized MySQL to analyze data for the taste of the world cafe. 
 
 Overall metrics that were analyzed for the Sales team to understand which categories, and orders were most and leas profitable,
